@@ -1,4 +1,3 @@
-// Coffee Cart
 export const btn_espresso = '//div[@aria-label="Espresso"]'
 export const btn_espresso_macchiato = '//div[@aria-label="Espresso Macchiato"]'
 export const btn_cappuccino = '//div[@aria-label="Cappuccino"]'
