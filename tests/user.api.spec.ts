@@ -27,6 +27,7 @@ test.describe("When we call the User API, the API should perform as the API spec
     const payload = {
       username: "emilys",
       password: "emilyspass",
+
     };
 
     const response = await axios.post(`https://dummyjson.com/user/login`, 
